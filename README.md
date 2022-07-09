@@ -1,4 +1,4 @@
-# 201 reading_notes
+# class 201 reading_notes
 
 >"You Miss 100% of everyshot you **dont** take - Wayne Gretzsky" - Micheal Scott
 
