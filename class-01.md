@@ -68,3 +68,8 @@ There are a few different ways to add JS to your page, they all hold their own f
 - External (This is when you create another folder and "link" the JS file to your HTML file).
 
 - Internal (Uses the ``<script>`` tag).
+
+## Things I want to know more about
+
+- better understanging of Understading your demographic when building a website.
+- better understanding of variables.
