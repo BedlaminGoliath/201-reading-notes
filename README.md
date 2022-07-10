@@ -2,7 +2,7 @@
 
 >"You Miss 100% of everyshot you **dont** take - Wayne Gretzsky" - Micheal Scott
 
-- [Class 1 reading](class-01reading.md)
+- [Class 1 reading](class-01.md)
 - [Class 2 reading](class2reading.md)
 - [Class 3 reading](class3readingNotes.md)
 - [Class 4 reading](class4readingNotes.md)
