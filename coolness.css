@@ -1,0 +1,30 @@
+body
+{
+background-color: black;
+
+}
+header
+{
+    text-align: center;
+    color: rgba(239, 255, 244, 0.784);
+    margin: auto;
+    font-size: 40px;
+}
+h1
+{
+    text-align: center;
+    font: 100;
+    color: rgb(228, 242, 243);
+    border: groove
+}
+li
+{
+    display: inline-block;
+    border: groove;
+    padding: 0px 16px;
+}
+p
+{
+    color: rgba(0, 0, 0, 0.967);
+
+}
