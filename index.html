@@ -6,8 +6,47 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>GuitArmy</title>
         <link rel="stylesheet" href="coolness.css"  type="text/css">
-        <script src="app1.js"></script>
-        <h2><script src="app3.js"></script></h2>
+        <!-- <script src="app1.js"></script> -->
+            <script type="text/javascript">
+                let userName = prompt('Please Enter your Name');
+
+                alert ('Welcome! you shred! ' + userName);
+                console.log(typeof userName);
+                document.write ("Welcome to sweet bliss, " + userName);
+
+                let userChoice = prompt('Who is your favorite band?');
+
+                alert (userChoice + ' Is cool and all...but do you even lift?');
+                console.log(typeof userChoice);
+
+                let userMusic = prompt('Do you love music?');
+
+                alert (userMusic + ' ...? If you havent, you should listen to The Mars Volta'  );
+                console.log(typeof userMusic);
+
+
+                let question = prompt("Do you think Gaz should be considered a state of mind? 'yes or no'? ");
+                let answer2question = prompt(question);
+                let rightAnswer = 'yes';
+
+                while (answer2question !== rightAnswer){
+                answer2question = prompt('Think again hotshot');
+                console.log(typeof question);
+                    }
+                alert("correct answer");
+
+            </script>
+        <h2></h2>
+        <style>
+            header
+            {
+            text-align: center;
+            color: rgba(239, 255, 244, 0.784);
+            margin: auto;
+            font-size: 40px;
+            }
+
+        </style>
     </head>
     <body>
         <header>
@@ -31,6 +70,10 @@
         <main>
             <p>Welcome to the One Stop place to test you chains <em>ON THE GO!</em> Here we give you options of several different pedals and classes of pedals. Have a look around and start builing your chain.</p>
 
+            <h1>Pedal Options Example:</h1>
+            <p style="color:darkgoldenrod;">Distortion Pedals</p>
+            <p style="color:blue;">Delay</p>
+            <p style="color:chartreuse">Phaser</p>
 
 
             
