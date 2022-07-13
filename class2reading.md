@@ -66,7 +66,7 @@ Within JS we have Variables, Those are much like conatiners (as before mentioned
 
 ## Logical Operators
 
-In JS we have different kinds of operators and we have several different ways to get to an end result. I mentioned above how we can use "else...if" statement to test other conditions possibilites, Well in some instances we may not need to write out every other "else.. if" statement, perhaps we can test if two conditions are what you want them to be. One "Logical operator" is the "&&" symbol, this is called the "and" operator, these can be used to ensure that Two conditions are being met before the code is being executed. Inversally we have the "||" symbol, This is reffered to as the "or symbol", this ensures that atleast one of the conditions are met inorder for the code to execute.
+In JS we have different kinds of operators and we have several different ways to get to an end result. I mentioned above how we can use "else...if" statement to test other conditions possibilites, Well in some instances we may not need to write out every other "else.. if" statement, perhaps we can test if two conditions are what you want them to be. One "Logical operator" is the ``&&`` symbol, this is called the "and" operator, these can be used to ensure that Two conditions are being met before the code is being executed. Inversally we have the ``||`` symbol, This is reffered to as the "or symbol", this ensures that atleast one of the conditions are met inorder for the code to execute.
 
 - [back to ReadMe](README.md)
 
