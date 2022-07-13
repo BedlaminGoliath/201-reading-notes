@@ -42,13 +42,13 @@ within the example The selector is being represented by the "h2" tag. The declar
 
  In JS we have differwent types of operators, operators produce a result by using to variables or values. To name a few we have
 
-- addition (+)
+- addition (``+``)
 
-- subtraction (-)
+- subtraction (``-``)
 
-- stricly equal (==)
+- stricly equal (``==``)
 
-- assignment(=)
+- assignment(``=``)
 
  We can use functions to solve real world problems. One of the easiest "realworld problems" woule be if we needed to do basic addition for our shopping trip, infact the registers do that for us all day, businesses require this to make sure the proper amounts are being charged and no inconsistant amounts.
 
@@ -62,7 +62,7 @@ An "else if statement is used as another condition or "other possibility" within
 
 ## Comparison Operators
 
-Within JS we have Variables, Those are much like conatiners (as before mentioned), These containers just dont exist with whatever data we have inside of them we must "assign" them to the data, this is where assignment operators come in handy (there is other uses as well). First we will continue with the assigning of data to a certain container (variable)... inorder to assign the info to the variable we would use ... **ding ding ding** the "assignment operator" which is the ' = ' although this is considered the "equal" sign in math this is simply a way we assign info to a variable. Now that one is out of the way we can touch on a few different operators, besides the " = " operator we also have the " === " (triple equals) symbol to show that the values being compared are identical (or not "!=="), Another Comparison Operater we have is the classic "<" ">" (less than and *or equal* than symbol.... these do just as we know them to do in math. Another one is "<=" "=>" These test if the value of one operand is less than or equal to /greater than or equal to the other operand.
+Within JS we have Variables, Those are much like conatiners (as before mentioned), These containers just dont exist with whatever data we have inside of them we must "assign" them to the data, this is where assignment operators come in handy (there is other uses as well). First we will continue with the assigning of data to a certain container (variable)... inorder to assign the info to the variable we would use ... **ding ding ding** the "assignment operator" which is the `` = `` although this is considered the "equal" sign in math this is simply a way we assign info to a variable. Now that one is out of the way we can touch on a few different operators, besides the " = " operator we also have the " === " (triple equals) symbol to show that the values being compared are identical (or not ``!==1``), Another Comparison Operater we have is the classic "<" ">" (less than and *or equal* than symbol.... these do just as we know them to do in math. Another one is ``<=`` ``=>`` These test if the value of one operand is less than or equal to /greater than or equal to the other operand.
 
 ## Logical Operators
 
