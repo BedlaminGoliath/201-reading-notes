@@ -102,3 +102,7 @@ What I wish I knew more of : better understanding of margin collapsing. (Css)
 Better understanding of the use of the ``.splice``
 
 How does F() = F! = 2
+
+-[Back to notes for class2](class-01.md)
+
+-[Back to readme](README.md)
