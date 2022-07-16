@@ -106,3 +106,5 @@ How does F() = F! = 2
 -[Back to notes for class2](class-01.md)
 
 -[Back to readme](README.md)
+
+[Info read from](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
