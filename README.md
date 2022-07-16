@@ -4,7 +4,7 @@
 
 - [Class 1 reading](class-01.md)
 - [Class 2 reading](class2reading.md)
-- [Class 3 reading](class3readingNotes.md)
+- [Class 3 reading](class3reading.md)
 - [Class 4 reading](class4readingNotes.md)
 - [Class 5 reading](class5readingNotes.md)
 - [Class 6 reading](class6readingNotes.md)
