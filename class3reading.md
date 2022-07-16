@@ -44,8 +44,8 @@ We are able to access every item within an array by using the ``for… of`` stat
 
 ``.map`` will allow you to leave with  the individual items in an array (much like ``for…of`` however with ``.map`` you are able to make a certain change to the array and be left with the items in their altered form .
 
-``filter( )`` allows you to filter through the items and this would leave you with a list of items that have been filtered or “..matched” a certain test.
-``split ( )`` takes a certain condition or parameter maybe its separate each everything that follows a “,” and “splits” it as such. This can be useful for my typos when I forget touseaspace. The flip side of using the “split()” method is using the “join()” method this does just as the name says.. it joins things.
+``filter()`` allows you to filter through the items and this would leave you with a list of items that have been filtered or “..matched” a certain test.
+``split()`` takes a certain condition or parameter maybe its separate each everything that follows a “,” and “splits” it as such. This can be useful for my typos when I forget touseaspace. The flip side of using the “split()” method is using the “join()” method this does just as the name says.. it joins things.
 
 ``.tostring()`` is a method that is useful to take info that is broken up within an array and combine them to make a string.
 
@@ -74,6 +74,26 @@ I don’t know if the people array is a valid array. I would say yes it is… ho
 Within JS we have conditionals, These are just as they sound. They are a set of conditions that need to be met in order for something to happen, usually if one ( or `` || `` ) both ``&&`` conditions are met them the code that follows within the brackets will get executed.
 
 In Js we could use ``!`` to “negate” an expression all together.  This means that even within the `` || `` conditional even if it returns true the ``!`` will return it as false.
+
+"logical operators" are good ways of writing clean conditionals without needing to nest conditionals.
+
+"switch statements" are good to search through a series of options and then run the code until a specified value is found. However in switch statements a "break" is required to break out of the sequence.
+
+Another conditional operator we have is called a "ternary" this sets up a conditional ``(condition) ? run this code: other wise run this code`` this is a good choice if you only have two choices and you want to run a certain code if true and a seperate code if false.
+
+In JS we have a trusty tool called "loops" this allows us to do several different things but in this context this allows us to run code a certain amount of times until a specific condition is met, This is called a for loops, this means that run thia code FOR a certain amount of time until the condition is met, this can mean count until you reach 100 or 1000, this can also mean that you add circles to a page until you reach 100 of them.
+
+``for..of`` we have a "for..of" loop this allows us to run though each item in our array and console log it.
+
+``map()`` and ``filter()`` the ``map()`` allows us to do a specific to each individual item in the loop we can make each item an upper or lowert case, for example. By using the ``filter()``  This allows us to filter through reach item in our array and create a new array with those specific items. for example we can create a new list of items from array if that start with a certain letter... this would make the curent conditional check if a certain condition is met in order to add them to the list.
+
+A "for loop" consists of three things (besides the word "for") we need an
+
+- initializer: this is often a varible set to a number'i'
+
+- a condition: This is the condition that must be met.
+
+- a final expression This is what is being run as long as the condition is true.
 
 ### Thing i wish i knew more of
 
