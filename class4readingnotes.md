@@ -109,3 +109,6 @@ usually recieve another function as a parameter.
 - level outside of funct. is "global scope".
 
 - if 2 funct. are named the same then second funct is ignored, so its a good idea to choose funct. names well.
+
+[<==back to class 3](class3reading.md)
+[back to read me](README.md)
