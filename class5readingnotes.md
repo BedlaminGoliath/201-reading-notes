@@ -147,7 +147,7 @@ RGB function uses CSS function ``rgb()`` with input parameters values : red, gre
 
 - The "saturation" is the amount of max color (chosen) or a having a shade of grey to it.
 
-- The Luminocity can increase the amount of lightness the color will have.From Lightest to Darkest "version" of the color. 
+- The Luminocity can increase the amount of lightness the color will have.From Lightest to Darkest "version" of the color.
 
 ### HWB function
 
@@ -169,4 +169,14 @@ This ``hwb()`` function is used like the ``rgb()`` function however instead of l
 
 - ``<print-color-adjust>`` tells browser to make no adjustments to your site, if left out browser can make changes to help with legibility... if your colors are important to you then try this out.
 
-[back to readme](README.md)
+### Things I want to know more about
+
+- I would like to have a clearer read on the img types, I know its a whole study in to this type of thing but its interesting.
+
+- I would LOVE to take one of those "color theory" classes, I love that kind of stuff, like the physicology of certain colors.
+
+- I really want grasp more about css and its possibilites when it comes to ``back-ground-image`` this reminds me of the myspace days
+
+- This is on par with the "color theory" comment, however understanding how color works with the "hue" "saturation" and "luminence" is a really cool thing to me. 
+
+[back to readme](README.)
