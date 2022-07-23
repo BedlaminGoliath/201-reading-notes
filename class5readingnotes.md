@@ -177,6 +177,8 @@ This ``hwb()`` function is used like the ``rgb()`` function however instead of l
 
 - I really want grasp more about css and its possibilites when it comes to ``back-ground-image`` this reminds me of the myspace days
 
-- This is on par with the "color theory" comment, however understanding how color works with the "hue" "saturation" and "luminence" is a really cool thing to me. 
+- This is on par with the "color theory" comment, however understanding how color works with the "hue" "saturation" and "luminence" is a really cool thing to me.
+
+info taken from [Mozilla MDN DOC](https://developer.mozilla.org/en-US/)
 
 [back to readme](README.)
