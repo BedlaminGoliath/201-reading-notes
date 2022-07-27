@@ -25,3 +25,7 @@ When the document loads it creates a model of ther page in the memory of the bro
 - text nodes.
 
 the nodes can be navigated inorder to be "granted" access to change said parts of the elements, they have a certain hierarchy (grandparent,parent,child,sibling).
+
+## Things i want to know more about
+
+I am really interested into understanding more about objects and their uses, I know i could learn a bit more by reading but im just ready to see and experiement with them in class and (i assume) for a lab.
