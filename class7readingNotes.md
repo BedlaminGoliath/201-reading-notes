@@ -90,3 +90,7 @@ Another covered topic was "static methods" from what i understand this is useful
 - I am having alittle trouble wrapping my brain around the portion of the last article where we discuss "static methods" so i would love to dig deeper into that for sure. Maybe i need to slow down and read it, again.
 
 - I want to know more practictle usesof the.
+
+info taken from [https://ui.dev/beginners-guide-to-javascript-prototype#functional-instantiation-with-shared-methods-and-objectcreate](UI DEV)
+
+[return to readme](README.md)
