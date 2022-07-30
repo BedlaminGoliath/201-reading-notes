@@ -46,8 +46,47 @@ const animalmethods = {
 
 allows us to grab the info fromt he return and utilize it within a rotating door functions, this means we can reuse all of this code over and over. and assign the data from each method to a var by (once again) using dot notation. (see "animal.eat).
 
-Another tool gather was called ``object.creat()`` this (to me) much like a funnel that caught info that wasnt available for one object and routed it to another object that Does have the key value pair available. Now this does not stop at the use of routing info from one object to another we can also use this by way of attatching this property to our functions object ``let animal = object.create(animal methods)`` if we look up a bit of info that is not readily available within our static object this will seek it out through our methods (since out methods are assigned to an object themselves)... This is a way we can clean up our code and not waste memory, This is called "Functional instation with shared methods and object create... (i think thats what its actually called but who knows). 
+Another tool gather was called ``object.creat()`` this (to me) much like a funnel that caught info that wasnt available for one object and routed it to another object that Does have the key value pair available. Now this does not stop at the use of routing info from one object to another we can also use this by way of attatching this property to our functions object ``let animal = object.create(animal methods)`` if we look up a bit of info that is not readily available within our static object this will seek it out through our methods (since out methods are assigned to an object themselves)... This is a way we can clean up our code and not waste memory, This is called "Functional instation with shared methods and object create... (i think thats what its actually called but who knows).
+
+In JS every function has a proptery called a "protoype" This property references an object. So In this primary example we can use this "protoype"  alongside of our ``object.create``... it would even go within our paranthesis and become a piece of our pizzle but it does not go there because using dot notation we "attach "this prototype attr.to every method that would look like this 
+`` function Animal =(name, energy){
+    let animal = object,create(Animal.protype)....
+    ....
+    ...
+    Animal.protype.eat = functino (amount){
+    }
+}
+
+and so forth... allows me to "share methods across every function. We can build more objects with this granting access to each one current and newly built (i do believe we need to make sure we use the prototypwe attr.). All this is helpful alongside making use of the ``new`` keyword`` this lets me create a new object with new arguments and make use of all this handy new information.
+
+Next information is about a "clas" this lets me create a blueprint ".. for an object.." this carries over the properties/methods that are then "shared" with my new....friend? So making us of the new ``class`` feature we can clean up our code further like so.
+
+``
+
+class animal{
+    constructor(name, energy){
+        this.name = name
+        this.energy = energy
+    }
+    eat(amount) {
+        console.log(`.....)
+        this.energy += amount
+    } (create other methods here)
+    {
+        (and here)
+    }
+    }
+    const lopez = new Animal(lopez, 33)
+
+    ``
+
+    Here made use of the ``class`` keyword thay layed out the blueprint of my object (which consisted of properties and methods)
+    Then below that I was about to use my new ``new`` keyword which created that "new" object which also carried over my arguments with it!.
+
+Another covered topic was "static methods" from what i understand this is usefule when we have a method that we do "need" however it does not NEED to shared across all methods (so the .prototype is not very useful) so what we end up doing is creating another method that is still within the scope of our primary object, that way it still accessible with dot notation and we can access a method that makes it useful WHEN we need it (of course its not always needed by the other methods). This is used often at the end of the "used" methods but remains within the scope our or object.
 
 ## Things I want to know more about
 
--
+- I am having alittle trouble wrapping my brain around the portion of the last article where we discuss "static methods" so i would love to dig deeper into that for sure. Maybe i need to slow down and read it, again.
+
+- I want to know more practictle usesof the.
