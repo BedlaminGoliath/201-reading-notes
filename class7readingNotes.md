@@ -26,6 +26,27 @@ Within ther ``<table>`` tag we have a few different elements that are often used
 
 ## Object Prototypes
 
+Object protoypes. This is a big one im still unpacking...okay so at the top we have "functional instantation..." So when we create multiple objects and functions geared towards those objects it is likely we will want to reuse the logic within each of those functions so inorder to keep it efficient (instead of rewriting the code block for each object) We start out by creating a function where we place our object AND the methods within it that way the parameters are open for whatever arguement may come our way, we would then use "dot notation" to pick which method we would like to use ``animal.eat`` (this is refering to the method with works out the amount of energy the animal has by what its eating....  the same can be done with any method within this function). The next step towards clean efficient code is doing somthing called " functional instation with shared methods" This another step forward wher we creart a method that incapsulates all the methods  along side of our ''Animal" function (this is left openm so we can reuse the general format of this object inside of this function.) This makes it easier to grab the return from the methods by using "dot notation" for example
+
+``
+
+const animalmethods = {
+    eat(amount){
+        console.log(`${this.name} is eating.`);
+        this.energy += amount
+    }, etc..... (enter two other functions here in the same formant){
+    }
+}
+ function animal(name, energy){
+    let animal = {}
+    animal.name = name
+    animal.energy= energy
+    animal.eat = animalMethods.eat
+}```
+
+allows us to grab the info fromt he return and utilize it within a rotating door functions, this means we can reuse all of this code over and over. and assign the data from each method to a var by (once again) using dot notation. (see "animal.eat).
+
+Another tool gather was called ``object.creat()`` this (to me) much like a funnel that caught info that wasnt available for one object and routed it to another object that Does have the key value pair available. Now this does not stop at the use of routing info from one object to another we can also use this by way of attatching this property to our functions object ``let animal = object.create(animal methods)`` if we look up a bit of info that is not readily available within our static object this will seek it out through our methods (since out methods are assigned to an object themselves)... This is a way we can clean up our code and not waste memory, This is called "Functional instation with shared methods and object create... (i think thats what its actually called but who knows). 
 
 ## Things I want to know more about
 
