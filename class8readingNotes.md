@@ -40,5 +40,6 @@ needless to say flexbox gives us the chance to do some pretty neat thing.. we ar
 
 - ``flex grow:1`` is one I would like to also know more about.
 
-[Info taken from](https://web.dev/learn/css/flexbox/)
-[Back to readme](README.md)
+- [Info taken from](https://web.dev/learn/css/flexbox/)
+
+- [Back to readme](README.md)
