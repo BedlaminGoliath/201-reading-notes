@@ -90,3 +90,14 @@ grid allows us more control with where our content goes, with flex box we are ab
 
 - *meda condition* is a posibile state the screen can be in.
 
+with these attributes the browser will do 4 differernt tasks: it will check the width of the device, it will check which condition (in sizes) is the first to be true, look at the slot size given in the query, then load the img ref. in the ``srcset`` that has the sme size as the slot or choose the first image that is bigger than the slot. 
+
+doing this is automating the page to pick the best picture to keeo the site looking good as well as saving KB, this may not seem like a big deal for one picture but imagine if there is many pictures.
+
+- ``<meta name="viewport" content="width=device-width">`` makes the mobile browser "adopt" the real viewport width for loading the page.
+
+## things i want to know more about
+
+- the part where we read about, resolution switching.
+
+[back-to-readme](README.md)
