@@ -28,3 +28,14 @@ The name of the JS file links to debugger tab of dev tool IF link is followed yo
 
 - "syntax error missing : after property" usually means there is an incorrectly formed statement.
 
+- syntax error : expected expression got 'string' or syntax unterminated string literal. Usually means you left off a  string value's open or close quote. These were found instead of quote marks at the beginning of the string.
+
+## JS Debugger
+
+Dev tools are our friends! you can..
+
+- delete nodes.
+
+- edit your HTML.
+
+- 
