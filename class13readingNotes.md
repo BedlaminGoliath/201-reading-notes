@@ -23,6 +23,8 @@
 
 - There is a way to access the data and that way is by using the right methods. However it is reccamended to do this in "Opera"
 
+## Things I want to know more about
 
+- I dont really have any questions yet.
 
 [README](README.md)
