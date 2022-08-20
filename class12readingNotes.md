@@ -21,5 +21,14 @@ there is a way to check if the browser supports this:
 
 - "fill" fills in the shape with a specific style (color, gradient, image) while "stroke" add colors to the edge of the shape.
 
-- We are also able to set properties  to "string". 
+- We are also able to set properties  to "string".
 
+The grid
+
+usually 1 unit in the grid "corresponds" to 1 pixel (on canvas).
+
+- ``fillRect(x, y, width, height)`` allows us to draw a rectangle
+
+- ``strokeRect(x, y, width, height)`` draws a rectangle.
+
+- ``clearRect(x, y, width, height)`` makes area transparent.
