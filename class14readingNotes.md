@@ -44,7 +44,28 @@ Default transform is center of element (50%, 50%). To change the default use ``t
 
 - There are four Transition properties: ``transition-property``, ``transition-duration``, ``transition-timing-function`` and ``transition-delay``.
 
-- ``transition property`` determines what will be altered. This goes alongside the other stages of the change. All properties inside the elements states will be changed, but only the properties inditified inside the ``transition-property`` value gets affected. 
+- ``transition property`` determines what will be altered. This goes alongside the other stages of the change. All properties inside the elements states will be changed, but only the properties inditified inside the ``transition-property`` value gets affected.
+
+## Teams
+
+- Beyond Many instances where people have many things in common, it seems that the study groups where what really made "bestfriends".
+
+- It seems that the group that performed the best was the group that knew how to keep things friendly and that never put a "lid" on their ideas by way of ego. The group that was able to enjoy eachothers company had some crazy ideas however that was the point of their "brainstorm" sessions so there was no stunting of expression during those times.
+
+- The people whom ofte were more compatible as friends (outside of the group) didnt do so well within the group (tensions greww) while the people who maybe were not as compatibe as a friends did amazing in group settings.
+
+- People that work in teams tend to innovate faster.
+
+- 3/4 of a days work is spent working with colleagues.
+
+- avoid micro managing!
+
+- Dont talk too much and let one another talk. The Teams where one person talked to much didnt do well, where the teams that shared the equal amount of talk time did well.
+
+- social intuition is great, like empathy.
+
+- Create a culture where taking individual risk is okay, and be there for one another and not make fun of one another for their ideas.
+
 
 ## Things i want to know more of
 
