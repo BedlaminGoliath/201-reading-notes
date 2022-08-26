@@ -66,7 +66,6 @@ Default transform is center of element (50%, 50%). To change the default use ``t
 
 - Create a culture where taking individual risk is okay, and be there for one another and not make fun of one another for their ideas.
 
-
 ## Things i want to know more of
 
 I want to know more about this!
